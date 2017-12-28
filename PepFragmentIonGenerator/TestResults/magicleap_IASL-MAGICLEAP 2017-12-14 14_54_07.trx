@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="507b51c2-724e-4753-a538-f28b54ac91cd" name="magicleap@IASL-MAGICLEAP 2017-12-14 14:54:07" runUser="GOING\magicleap" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="16c602e4-3b82-48a6-92a6-f9ba09bc456d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="magicleap_IASL-MAGICLEAP 2017-12-14 14_54_07">
+      <DeploymentItem filename="C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\bin\Debug\PepFragmentIonGenerator.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-12-14T14:54:07.1907707+08:00" queuing="2017-12-14T14:54:07.2057823+08:00" start="2017-12-14T14:54:07.2077835+08:00" finish="2017-12-14T14:54:07.3749032+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetModification" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="1fc7d2db-230e-a205-77c4-36df52d26c74">
+      <Execution id="983c00c6-151f-4a80-83bd-a946ec2f842a" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetModification" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1fc7d2db-230e-a205-77c4-36df52d26c74" executionId="983c00c6-151f-4a80-83bd-a946ec2f842a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="983c00c6-151f-4a80-83bd-a946ec2f842a" testId="1fc7d2db-230e-a205-77c4-36df52d26c74" testName="GetModification" computerName="IASL-MAGICLEAP" duration="00:00:00.0376974" startTime="2017-12-14T14:54:07.2097846+08:00" endTime="2017-12-14T14:54:07.3658961+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="983c00c6-151f-4a80-83bd-a946ec2f842a">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.UnitTest1.GetModification threw exception: 
+System.ArgumentException: 路徑中有不合法的字元。</Message>
+          <StackTrace>    於 System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   於 System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   於 System.IO.Path.GetFullPathInternal(String path)
+   於 System.Xml.XmlResolver.ResolveUri(Uri baseUri, String relativeUri)
+   於 System.Xml.XmlUrlResolver.ResolveUri(Uri baseUri, String relativeUri)
+   於 System.Xml.XmlTextReaderImpl..ctor(String url, XmlNameTable nt)
+   於 System.Xml.XmlDocument.Load(String filename)
+   於 PepFragmentIonGenerator.GetFragments.modGenerator(String xmlAnnotation) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 291
+   於 PepFragmentIonGenerator.GetFragments.GetFragments_AAStr_Mod(String pepSeq, Boolean b_CreatNeutralLossPeak, String PeptideAnnotationFile) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 38
+   於 TestProject1.UnitTest1.GetModification() 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\UnitTest1.cs: 行 192
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

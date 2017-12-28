@@ -1,0 +1,20 @@
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.csproj.CoreCompileInputs.cache
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\PepFragmentIonGenerator\bin\Debug\PepFragmentIonGenerator.exe
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\PepFragmentIonGenerator\bin\Debug\PepFragmentIonGenerator.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.exe
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.pdb
+W:\In-house Programs\CommonLib\Source code\PepFragmentIonGenerator\PepFragmentIonGenerator\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.exe
+W:\In-house Programs\CommonLib\Source code\PepFragmentIonGenerator\PepFragmentIonGenerator\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.pdb
+W:\In-house Programs\CommonLib\Source code\PepFragmentIonGenerator\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.exe
+W:\In-house Programs\CommonLib\Source code\PepFragmentIonGenerator\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.pdb
+W:\Projects\Fragment ion generator\Source code\PepFragmentIonGenerator\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.exe
+W:\Projects\Fragment ion generator\Source code\PepFragmentIonGenerator\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.csprojResolveAssemblyReference.cache
+W:\Projects\Fragment ion generator\Source code\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.exe
+W:\Projects\Fragment ion generator\Source code\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.pdb
+W:\Projects\Fragment ion generator\Source code\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.csprojResolveAssemblyReference.cache
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\bin\Debug\PepFragmentIonGenerator.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\bin\Debug\PepFragmentIonGenerator.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\obj\x86\Debug\PepFragmentIonGenerator.csproj.CoreCompileInputs.cache

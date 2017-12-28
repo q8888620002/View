@@ -1,0 +1,8 @@
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\bin\Debug\PepFragmentIonGenerator.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\bin\Debug\PepFragmentIonGenerator.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\bin\Debug\PeptideAnnotation.xml

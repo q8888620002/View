@@ -1,0 +1,25 @@
+Amino Acid	3-Letter Code	1-Letter Code	Molecular Weight	Hydrophobicity
+Alanine	Ala	A	71.037114	0.616
+Cysteine	Cys	C	103.009185	0.680
+Aspartate	Asp	D	115.026943	0.028
+Glutamate	Glu	E	129.042593	0.043
+Phenylalanine	Phe	F	147.068414	1.00
+Glycine	Gly	G	57.021464	0.501
+Histidine	His	H	137.058912	0.165
+Isoleucine	Ile	I	113.084064	0.943
+Lysine	Lys	K	128.094963	0.283
+Leucine	Leu	L	113.084064	0.943
+Methionine	Met	M	131.040485	0.738
+Asparagine	Asn	N	114.042927	0.236
+Proline	Pro	P	97.052764	0.711
+Glutamine	Gln	Q	128.058578	0.251
+Arginine	Arg	R	156.101111	0.000
+Serine	Ser	S	87.032028	0.359
+Threonine	The	T	101.047679	0.450
+Valine	Val	V	99.068414	0.825
+Tryptophan	Trp	W	186.079313	0.878
+Tyrosine	Tyr	Y	163.063329	0.880
+Unknown	Xaa	X	111.000000	0
+Glu or Gln	Glx	Z	128.550590	0
+Asn or Asp	Asx	B	114.534940	0
+Selenocysteine	SeC	U	150.953630	0

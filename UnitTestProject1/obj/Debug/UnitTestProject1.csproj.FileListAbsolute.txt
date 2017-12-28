@@ -1,0 +1,30 @@
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\bin\Debug\PepFragmentIonGenerator.exe
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\bin\Debug\PepFragmentIonGenerator.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\bin\Debug\PepFragmentIonGenerator.dll
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\bin\Debug\PepFragmentIonGenerator.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml

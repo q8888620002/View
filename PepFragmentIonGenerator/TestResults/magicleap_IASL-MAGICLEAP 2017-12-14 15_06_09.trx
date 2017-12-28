@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6dc98859-dd1c-4764-816b-f970751da9c4" name="magicleap@IASL-MAGICLEAP 2017-12-14 15:06:09" runUser="GOING\magicleap" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="16c602e4-3b82-48a6-92a6-f9ba09bc456d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="magicleap_IASL-MAGICLEAP 2017-12-14 15_06_09">
+      <DeploymentItem filename="C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\bin\Debug\PepFragmentIonGenerator.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-12-14T15:06:09.2293898+08:00" queuing="2017-12-14T15:06:09.3374674+08:00" start="2017-12-14T15:06:09.3414700+08:00" finish="2017-12-14T15:06:09.6727047+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CheckModification" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="f9a0c639-a890-d9ce-99dc-166ae0a28892">
+      <Execution id="1e18ad4c-445c-4e13-8dc6-4b07bf550c58" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckModification" />
+    </UnitTest>
+    <UnitTest name="TestGetFragmentatWithOutMod" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="71ca4d67-51d6-196d-41cd-0626d29a2548">
+      <Execution id="7dace992-9c70-4697-91b5-decfc5079224" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetFragmentatWithOutMod" />
+    </UnitTest>
+    <UnitTest name="GetModificationLi" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="c15e4676-c5ee-db06-acf3-8d37258c7a4c">
+      <Execution id="6d44fd09-140d-4c8a-8960-7680750c663c" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetModificationLi" />
+    </UnitTest>
+    <UnitTest name="TestRegex" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="766f967e-cd62-c9c3-c250-d575d5115db6">
+      <Execution id="43e4f9ff-2814-410e-95ec-d7f6741207cb" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestRegex" />
+    </UnitTest>
+    <UnitTest name="RefractoringTextParser" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="beafb084-8735-a82d-4bd9-9d531f023de9">
+      <Execution id="81e2f8b4-2f7c-4112-bb36-478a1a43b39d" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RefractoringTextParser" />
+    </UnitTest>
+    <UnitTest name="TestModnWithText" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="01cb3754-85ef-de85-c558-307a6f4af7e6">
+      <Execution id="b3309a3b-5c16-4845-b832-88875872acaf" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestModnWithText" />
+    </UnitTest>
+    <UnitTest name="InitiateNumMod" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="df5fa9ef-4d26-8455-d096-4e68827fecfb">
+      <Execution id="a711811f-0d5f-4711-9b24-8ba0361e8a6b" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InitiateNumMod" />
+    </UnitTest>
+    <UnitTest name="GetModification" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="1fc7d2db-230e-a205-77c4-36df52d26c74">
+      <Execution id="dc7b425e-2ea9-4290-add8-c0584ce51ef9" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetModification" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="01cb3754-85ef-de85-c558-307a6f4af7e6" executionId="b3309a3b-5c16-4845-b832-88875872acaf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1fc7d2db-230e-a205-77c4-36df52d26c74" executionId="dc7b425e-2ea9-4290-add8-c0584ce51ef9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="71ca4d67-51d6-196d-41cd-0626d29a2548" executionId="7dace992-9c70-4697-91b5-decfc5079224" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="766f967e-cd62-c9c3-c250-d575d5115db6" executionId="43e4f9ff-2814-410e-95ec-d7f6741207cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="beafb084-8735-a82d-4bd9-9d531f023de9" executionId="81e2f8b4-2f7c-4112-bb36-478a1a43b39d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c15e4676-c5ee-db06-acf3-8d37258c7a4c" executionId="6d44fd09-140d-4c8a-8960-7680750c663c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="df5fa9ef-4d26-8455-d096-4e68827fecfb" executionId="a711811f-0d5f-4711-9b24-8ba0361e8a6b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f9a0c639-a890-d9ce-99dc-166ae0a28892" executionId="1e18ad4c-445c-4e13-8dc6-4b07bf550c58" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b3309a3b-5c16-4845-b832-88875872acaf" testId="01cb3754-85ef-de85-c558-307a6f4af7e6" testName="TestModnWithText" computerName="IASL-MAGICLEAP" duration="00:00:00.1071877" startTime="2017-12-14T15:06:09.3434714+08:00" endTime="2017-12-14T15:06:09.5926485+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b3309a3b-5c16-4845-b832-88875872acaf">
+      <Output>
+        <StdOut>Other ion family type
+Other ion family type
+Other ion family type</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="dc7b425e-2ea9-4290-add8-c0584ce51ef9" testId="1fc7d2db-230e-a205-77c4-36df52d26c74" testName="GetModification" computerName="IASL-MAGICLEAP" duration="00:00:00.0037593" startTime="2017-12-14T15:06:09.5951514+08:00" endTime="2017-12-14T15:06:09.6026550+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dc7b425e-2ea9-4290-add8-c0584ce51ef9">
+      <Output>
+        <StdOut>Other ion family type
+Other ion family type
+Other ion family type</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7dace992-9c70-4697-91b5-decfc5079224" testId="71ca4d67-51d6-196d-41cd-0626d29a2548" testName="TestGetFragmentatWithOutMod" computerName="IASL-MAGICLEAP" duration="00:00:00.0019771" startTime="2017-12-14T15:06:09.6036560+08:00" endTime="2017-12-14T15:06:09.6091596+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7dace992-9c70-4697-91b5-decfc5079224">
+      <Output>
+        <StdOut>Other ion family type
+Other ion family type
+Other ion family type
+Ion List COunt: 148
+b(1)peptide116.034219
+b++(1)peptide58.5207475
+b0(1)peptide98.023654
+b0++(1)peptide49.515465
+b(2)peptide263.102633
+b++(2)peptide132.0549545
+b0(2)peptide245.092068
+b0++(2)peptide123.049672
+b(3)peptide410.171047
+b++(3)peptide205.5891615
+b0(3)peptide392.160482
+b0++(3)peptide196.583879
+b(4)peptide525.19799
+b++(4)peptide263.102633
+b0(4)peptide507.187425
+b0++(4)peptide254.0973505
+y(4)peptide515.21364
+y++(4)peptide258.110458
+y0(4)peptide497.203075
+y0++(4)peptide249.1051755
+y(3)peptide368.145226
+y++(3)peptide184.576251
+y0(3)peptide350.134661
+y0++(3)peptide175.5709685
+y(2)peptide221.076812
+y++(2)peptide111.042044
+y0(2)peptide203.066247
+y0++(2)peptide102.0367615
+y(1)peptide106.049869
+y++(1)peptide53.5285725
+y0(1)peptide88.039304
+y0++(1)peptide44.52329
+a(1)peptide88.026943
+a++(1)peptide44.5171095
+a0(1)peptide70.016378
+a0++(1)peptide35.511827
+a(2)peptide235.095357
+a++(2)peptide118.0513165
+a0(2)peptide217.084792
+a0++(2)peptide109.046034
+a(3)peptide382.163771
+a++(3)peptide191.5855235
+a0(3)peptide364.153206
+a0++(3)peptide182.580241
+a(4)peptide497.190714
+a++(4)peptide249.098995
+a0(4)peptide479.180149
+a0++(4)peptide240.0937125
+x(4)peptide541.195799
+x++(4)peptide271.1015375
+x0(4)peptide523.185234
+x0++(4)peptide262.096255
+x(3)peptide394.127385
+x++(3)peptide197.5673305
+x0(3)peptide376.11682
+x0++(3)peptide188.562048
+x(2)peptide247.058971
+x++(2)peptide124.0331235
+x0(2)peptide229.048406
+x0++(2)peptide115.027841
+x(1)peptide132.032028
+x++(1)peptide66.519652
+x0(1)peptide114.021463
+x0++(1)peptide57.5143695
+c(1)peptide133.026943
+c++(1)peptide67.0171095
+c0(1)peptide115.016378
+c0++(1)peptide58.011827
+c(2)peptide280.095357
+c++(2)peptide140.5513165
+c0(2)peptide262.084792
+c0++(2)peptide131.546034
+c(3)peptide427.163771
+c++(3)peptide214.0855235
+c0(3)peptide409.153206
+c0++(3)peptide205.080241
+c(4)peptide542.190714
+c++(4)peptide271.598995
+c0(4)peptide524.180149
+c0++(4)peptide262.5937125
+z(4)peptide496.195799
+z++(4)peptide496.195799
+z0(4)peptide496.195799
+z0++(4)peptide496.195799
+z_1(4)peptide498.195799
+z_1++(4)peptide249.6015375
+z_2(4)peptide499.195799
+z_2++(4)peptide250.1015375
+z(3)peptide349.127385
+z++(3)peptide349.127385
+z0(3)peptide349.127385
+z0++(3)peptide349.127385
+z_1(3)peptide351.127385
+z_1++(3)peptide176.0673305
+z_2(3)peptide352.127385
+z_2++(3)peptide176.5673305
+z(2)peptide202.058971
+z++(2)peptide202.058971
+z0(2)peptide202.058971
+z0++(2)peptide202.058971
+z_1(2)peptide204.058971
+z_1++(2)peptide102.5331235
+z_2(2)peptide205.058971
+z_2++(2)peptide103.0331235
+z(1)peptide87.032028
+z++(1)peptide87.032028
+z0(1)peptide87.032028
+z0++(1)peptide87.032028
+z_1(1)peptide89.032028
+z_1++(1)peptide45.019652
+z_2(1)peptide90.032028
+z_2++(1)peptide45.519652
+iby(1-2)peptide148.07569
+iby++(1-2)peptide74.541483
+iay++(1-2)peptide87.537845
+iay(1-2)peptide174.068414
+iby(1-3)peptide295.144104
+iby++(1-3)peptide148.07569
+iay++(1-3)peptide161.072052
+iay(1-3)peptide321.136828
+iby(1-4)peptide410.171047
+iby++(1-4)peptide205.5891615
+iby0(1-4)peptide392.160482
+iby0++(1-4)peptide196.583879
+iay++(1-4)peptide218.5855235
+iay0(1-4)peptide418.153206
+iay0++(1-4)peptide209.580241
+iay(1-4)peptide436.163771
+iby(2-3)peptide148.07569
+iby++(2-3)peptide74.541483
+iay++(2-3)peptide87.537845
+iay(2-3)peptide174.068414
+iby(2-4)peptide263.102633
+iby++(2-4)peptide132.0549545
+iby0(2-4)peptide245.092068
+iby0++(2-4)peptide123.049672
+iay++(2-4)peptide145.0513165
+iay0(2-4)peptide271.084792
+iay0++(2-4)peptide136.046034
+iay(2-4)peptide289.095357
+iby(3-4)peptide116.034219
+iby++(3-4)peptide58.5207475
+iby0(3-4)peptide98.023654
+iby0++(3-4)peptide49.515465
+iay++(3-4)peptide71.5171095
+iay0(3-4)peptide124.016378
+iay0++(3-4)peptide62.511827
+iay(3-4)peptide142.026943</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="43e4f9ff-2814-410e-95ec-d7f6741207cb" testId="766f967e-cd62-c9c3-c250-d575d5115db6" testName="TestRegex" computerName="IASL-MAGICLEAP" duration="00:00:00.0002711" startTime="2017-12-14T15:06:09.6101604+08:00" endTime="2017-12-14T15:06:09.6136634+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="43e4f9ff-2814-410e-95ec-d7f6741207cb">
+    </UnitTestResult>
+    <UnitTestResult executionId="81e2f8b4-2f7c-4112-bb36-478a1a43b39d" testId="beafb084-8735-a82d-4bd9-9d531f023de9" testName="RefractoringTextParser" computerName="IASL-MAGICLEAP" duration="00:00:00.0027925" startTime="2017-12-14T15:06:09.6151642+08:00" endTime="2017-12-14T15:06:09.6216685+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="81e2f8b4-2f7c-4112-bb36-478a1a43b39d">
+      <Output>
+        <StdOut>Other ion family type
+Other ion family type
+Other ion family type</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6d44fd09-140d-4c8a-8960-7680750c663c" testId="c15e4676-c5ee-db06-acf3-8d37258c7a4c" testName="GetModificationLi" computerName="IASL-MAGICLEAP" duration="00:00:00.0002785" startTime="2017-12-14T15:06:09.6226698+08:00" endTime="2017-12-14T15:06:09.6261717+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6d44fd09-140d-4c8a-8960-7680750c663c">
+    </UnitTestResult>
+    <UnitTestResult executionId="a711811f-0d5f-4711-9b24-8ba0361e8a6b" testId="df5fa9ef-4d26-8455-d096-4e68827fecfb" testName="InitiateNumMod" computerName="IASL-MAGICLEAP" duration="00:00:00.0042086" startTime="2017-12-14T15:06:09.6276731+08:00" endTime="2017-12-14T15:06:09.6351781+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a711811f-0d5f-4711-9b24-8ba0361e8a6b">
+      <Output>
+        <StdOut>Other ion family type
+Other ion family type
+Other ion family type
+Other ion family type
+Other ion family type
+Other ion family type
+label: b(1)
+ Iontype: peptide
+  mass-to-charge : 116.034219
+label: b++(1)
+ Iontype: peptide
+  mass-to-charge : 58.5207475
+label: b0(1)
+ Iontype: peptide
+  mass-to-charge : 98.023654
+label: b0++(1)
+ Iontype: peptide
+  mass-to-charge : 49.515465
+label: b(2)
+ Iontype: peptide
+  mass-to-charge : 263.102633
+label: b++(2)
+ Iontype: peptide
+  mass-to-charge : 132.0549545
+label: b0(2)
+ Iontype: peptide
+  mass-to-charge : 245.092068
+label: b0++(2)
+ Iontype: peptide
+  mass-to-charge : 123.049672
+label: b(3)
+ Iontype: peptide
+  mass-to-charge : 410.171047
+label: b++(3)
+ Iontype: peptide
+  mass-to-charge : 205.5891615
+label: b0(3)
+ Iontype: peptide
+  mass-to-charge : 392.160482
+label: b0++(3)
+ Iontype: peptide
+  mass-to-charge : 196.583879
+label: b(4)
+ Iontype: peptide
+  mass-to-charge : 525.19799
+label: b++(4)
+ Iontype: peptide
+  mass-to-charge : 263.102633
+label: b0(4)
+ Iontype: peptide
+  mass-to-charge : 507.187425
+label: b0++(4)
+ Iontype: peptide
+  mass-to-charge : 254.0973505
+label: y(4)
+ Iontype: peptide
+  mass-to-charge : 556.240126
+label: y++(4)
+ Iontype: peptide
+  mass-to-charge : 278.623701
+label: y0(4)
+ Iontype: peptide
+  mass-to-charge : 538.229561
+label: y0++(4)
+ Iontype: peptide
+  mass-to-charge : 269.6184185
+label: y(3)
+ Iontype: peptide
+  mass-to-charge : 409.171712
+label: y++(3)
+ Iontype: peptide
+  mass-to-charge : 205.089494
+label: y0(3)
+ Iontype: peptide
+  mass-to-charge : 391.161147
+label: y0++(3)
+ Iontype: peptide
+  mass-to-charge : 196.0842115
+label: y(2)
+ Iontype: peptide
+  mass-to-charge : 262.103298
+label: y++(2)
+ Iontype: peptide
+  mass-to-charge : 131.555287
+label: y0(2)
+ Iontype: peptide
+  mass-to-charge : 244.092733
+label: y0++(2)
+ Iontype: peptide
+  mass-to-charge : 122.5500045
+label: y(1)
+ Iontype: peptide
+  mass-to-charge : 147.076355
+label: y++(1)
+ Iontype: peptide
+  mass-to-charge : 74.0418155
+label: a(1)
+ Iontype: peptide
+  mass-to-charge : 88.026943
+label: a++(1)
+ Iontype: peptide
+  mass-to-charge : 44.5171095
+label: a0(1)
+ Iontype: peptide
+  mass-to-charge : 70.016378
+label: a0++(1)
+ Iontype: peptide
+  mass-to-charge : 35.511827
+label: a(2)
+ Iontype: peptide
+  mass-to-charge : 235.095357
+label: a++(2)
+ Iontype: peptide
+  mass-to-charge : 118.0513165
+label: a0(2)
+ Iontype: peptide
+  mass-to-charge : 217.084792
+label: a0++(2)
+ Iontype: peptide
+  mass-to-charge : 109.046034
+label: a(3)
+ Iontype: peptide
+  mass-to-charge : 382.163771
+label: a++(3)
+ Iontype: peptide
+  mass-to-charge : 191.5855235
+label: a0(3)
+ Iontype: peptide
+  mass-to-charge : 364.153206
+label: a0++(3)
+ Iontype: peptide
+  mass-to-charge : 182.580241
+label: a(4)
+ Iontype: peptide
+  mass-to-charge : 497.190714
+label: a++(4)
+ Iontype: peptide
+  mass-to-charge : 249.098995
+label: a0(4)
+ Iontype: peptide
+  mass-to-charge : 479.180149
+label: a0++(4)
+ Iontype: peptide
+  mass-to-charge : 240.0937125
+label: x(4)
+ Iontype: peptide
+  mass-to-charge : 582.222285
+label: x++(4)
+ Iontype: peptide
+  mass-to-charge : 291.6147805
+label: x0(4)
+ Iontype: peptide
+  mass-to-charge : 564.21172
+label: x0++(4)
+ Iontype: peptide
+  mass-to-charge : 282.609498
+label: x(3)
+ Iontype: peptide
+  mass-to-charge : 435.153871
+label: x++(3)
+ Iontype: peptide
+  mass-to-charge : 218.0805735
+label: x0(3)
+ Iontype: peptide
+  mass-to-charge : 417.143306
+label: x0++(3)
+ Iontype: peptide
+  mass-to-charge : 209.075291
+label: x(2)
+ Iontype: peptide
+  mass-to-charge : 288.085457
+label: x++(2)
+ Iontype: peptide
+  mass-to-charge : 144.5463665
+label: x0(2)
+ Iontype: peptide
+  mass-to-charge : 270.074892
+label: x0++(2)
+ Iontype: peptide
+  mass-to-charge : 135.541084
+label: x(1)
+ Iontype: peptide
+  mass-to-charge : 173.058514
+label: x++(1)
+ Iontype: peptide
+  mass-to-charge : 87.032895
+label: c(1)
+ Iontype: peptide
+  mass-to-charge : 133.026943
+label: c++(1)
+ Iontype: peptide
+  mass-to-charge : 67.0171095
+label: c0(1)
+ Iontype: peptide
+  mass-to-charge : 115.016378
+label: c0++(1)
+ Iontype: peptide
+  mass-to-charge : 58.011827
+label: c(2)
+ Iontype: peptide
+  mass-to-charge : 280.095357
+label: c++(2)
+ Iontype: peptide
+  mass-to-charge : 140.5513165
+label: c0(2)
+ Iontype: peptide
+  mass-to-charge : 262.084792
+label: c0++(2)
+ Iontype: peptide
+  mass-to-charge : 131.546034
+label: c(3)
+ Iontype: peptide
+  mass-to-charge : 427.163771
+label: c++(3)
+ Iontype: peptide
+  mass-to-charge : 214.0855235
+label: c0(3)
+ Iontype: peptide
+  mass-to-charge : 409.153206
+label: c0++(3)
+ Iontype: peptide
+  mass-to-charge : 205.080241
+label: c(4)
+ Iontype: peptide
+  mass-to-charge : 542.190714
+label: c++(4)
+ Iontype: peptide
+  mass-to-charge : 271.598995
+label: c0(4)
+ Iontype: peptide
+  mass-to-charge : 524.180149
+label: c0++(4)
+ Iontype: peptide
+  mass-to-charge : 262.5937125
+label: z(4)
+ Iontype: peptide
+  mass-to-charge : 537.222285
+label: z++(4)
+ Iontype: peptide
+  mass-to-charge : 537.222285
+label: z0(4)
+ Iontype: peptide
+  mass-to-charge : 537.222285
+label: z0++(4)
+ Iontype: peptide
+  mass-to-charge : 537.222285
+label: z_1(4)
+ Iontype: peptide
+  mass-to-charge : 539.222285
+label: z_1++(4)
+ Iontype: peptide
+  mass-to-charge : 270.1147805
+label: z_2(4)
+ Iontype: peptide
+  mass-to-charge : 540.222285
+label: z_2++(4)
+ Iontype: peptide
+  mass-to-charge : 270.6147805
+label: z(3)
+ Iontype: peptide
+  mass-to-charge : 390.153871
+label: z++(3)
+ Iontype: peptide
+  mass-to-charge : 390.153871
+label: z0(3)
+ Iontype: peptide
+  mass-to-charge : 390.153871
+label: z0++(3)
+ Iontype: peptide
+  mass-to-charge : 390.153871
+label: z_1(3)
+ Iontype: peptide
+  mass-to-charge : 392.153871
+label: z_1++(3)
+ Iontype: peptide
+  mass-to-charge : 196.5805735
+label: z_2(3)
+ Iontype: peptide
+  mass-to-charge : 393.153871
+label: z_2++(3)
+ Iontype: peptide
+  mass-to-charge : 197.0805735
+label: z(2)
+ Iontype: peptide
+  mass-to-charge : 243.085457
+label: z++(2)
+ Iontype: peptide
+  mass-to-charge : 243.085457
+label: z0(2)
+ Iontype: peptide
+  mass-to-charge : 243.085457
+label: z0++(2)
+ Iontype: peptide
+  mass-to-charge : 243.085457
+label: z_1(2)
+ Iontype: peptide
+  mass-to-charge : 245.085457
+label: z_1++(2)
+ Iontype: peptide
+  mass-to-charge : 123.0463665
+label: z_2(2)
+ Iontype: peptide
+  mass-to-charge : 246.085457
+label: z_2++(2)
+ Iontype: peptide
+  mass-to-charge : 123.5463665
+label: z(1)
+ Iontype: peptide
+  mass-to-charge : 128.058514
+label: z++(1)
+ Iontype: peptide
+  mass-to-charge : 128.058514
+label: z_1(1)
+ Iontype: peptide
+  mass-to-charge : 130.058514
+label: z_1++(1)
+ Iontype: peptide
+  mass-to-charge : 65.532895
+label: z_2(1)
+ Iontype: peptide
+  mass-to-charge : 131.058514
+label: z_2++(1)
+ Iontype: peptide
+  mass-to-charge : 66.032895
+label: iby(1-2)
+ Iontype: peptide
+  mass-to-charge : 148.07569
+label: iby++(1-2)
+ Iontype: peptide
+  mass-to-charge : 74.541483
+label: iay++(1-2)
+ Iontype: peptide
+  mass-to-charge : 87.537845
+label: iay(1-2)
+ Iontype: peptide
+  mass-to-charge : 174.068414
+label: iby(1-3)
+ Iontype: peptide
+  mass-to-charge : 295.144104
+label: iby++(1-3)
+ Iontype: peptide
+  mass-to-charge : 148.07569
+label: iay++(1-3)
+ Iontype: peptide
+  mass-to-charge : 161.072052
+label: iay(1-3)
+ Iontype: peptide
+  mass-to-charge : 321.136828
+label: iby(1-4)
+ Iontype: peptide
+  mass-to-charge : 410.171047
+label: iby++(1-4)
+ Iontype: peptide
+  mass-to-charge : 205.5891615
+label: iby0(1-4)
+ Iontype: peptide
+  mass-to-charge : 392.160482
+label: iby0++(1-4)
+ Iontype: peptide
+  mass-to-charge : 196.583879
+label: iay++(1-4)
+ Iontype: peptide
+  mass-to-charge : 218.5855235
+label: iay0(1-4)
+ Iontype: peptide
+  mass-to-charge : 418.153206
+label: iay0++(1-4)
+ Iontype: peptide
+  mass-to-charge : 209.580241
+label: iay(1-4)
+ Iontype: peptide
+  mass-to-charge : 436.163771
+label: iby(2-3)
+ Iontype: peptide
+  mass-to-charge : 148.07569
+label: iby++(2-3)
+ Iontype: peptide
+  mass-to-charge : 74.541483
+label: iay++(2-3)
+ Iontype: peptide
+  mass-to-charge : 87.537845
+label: iay(2-3)
+ Iontype: peptide
+  mass-to-charge : 174.068414
+label: iby(2-4)
+ Iontype: peptide
+  mass-to-charge : 263.102633
+label: iby++(2-4)
+ Iontype: peptide
+  mass-to-charge : 132.0549545
+label: iby0(2-4)
+ Iontype: peptide
+  mass-to-charge : 245.092068
+label: iby0++(2-4)
+ Iontype: peptide
+  mass-to-charge : 123.049672
+label: iay++(2-4)
+ Iontype: peptide
+  mass-to-charge : 145.0513165
+label: iay0(2-4)
+ Iontype: peptide
+  mass-to-charge : 271.084792
+label: iay0++(2-4)
+ Iontype: peptide
+  mass-to-charge : 136.046034
+label: iay(2-4)
+ Iontype: peptide
+  mass-to-charge : 289.095357
+label: iby(3-4)
+ Iontype: peptide
+  mass-to-charge : 116.034219
+label: iby++(3-4)
+ Iontype: peptide
+  mass-to-charge : 58.5207475
+label: iby0(3-4)
+ Iontype: peptide
+  mass-to-charge : 98.023654
+label: iby0++(3-4)
+ Iontype: peptide
+  mass-to-charge : 49.515465
+label: iay++(3-4)
+ Iontype: peptide
+  mass-to-charge : 71.5171095
+label: iay0(3-4)
+ Iontype: peptide
+  mass-to-charge : 124.016378
+label: iay0++(3-4)
+ Iontype: peptide
+  mass-to-charge : 62.511827
+label: iay(3-4)
+ Iontype: peptide
+  mass-to-charge : 142.026943</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1e18ad4c-445c-4e13-8dc6-4b07bf550c58" testId="f9a0c639-a890-d9ce-99dc-166ae0a28892" testName="CheckModification" computerName="IASL-MAGICLEAP" duration="00:00:00.0003620" startTime="2017-12-14T15:06:09.6361791+08:00" endTime="2017-12-14T15:06:09.6396816+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e18ad4c-445c-4e13-8dc6-4b07bf550c58">
+    </UnitTestResult>
+  </Results>
+</TestRun>

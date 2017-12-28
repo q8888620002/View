@@ -1,0 +1,6 @@
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\Test\bin\Debug\Test.exe
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\Test\bin\Debug\Test.pdb
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\Test\obj\x86\Debug\Test.exe
+C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\Test\obj\x86\Debug\Test.pdb

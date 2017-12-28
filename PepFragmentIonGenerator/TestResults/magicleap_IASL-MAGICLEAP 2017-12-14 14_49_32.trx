@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8a8a6ed6-19cc-4846-b8ca-51d72da8cd32" name="magicleap@IASL-MAGICLEAP 2017-12-14 14:49:32" runUser="GOING\magicleap" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="16c602e4-3b82-48a6-92a6-f9ba09bc456d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="magicleap_IASL-MAGICLEAP 2017-12-14 14_49_32">
+      <DeploymentItem filename="C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\bin\Debug\PepFragmentIonGenerator.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-12-14T14:49:32.5679633+08:00" queuing="2017-12-14T14:49:32.5809733+08:00" start="2017-12-14T14:49:32.5849763+08:00" finish="2017-12-14T14:49:32.7671088+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="8" executed="8" passed="3" error="0" failed="5" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CheckModification" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="f9a0c639-a890-d9ce-99dc-166ae0a28892">
+      <Execution id="7943a8e7-9725-47d6-a2e7-b69dba98a57f" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckModification" />
+    </UnitTest>
+    <UnitTest name="TestGetFragmentatWithOutMod" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="71ca4d67-51d6-196d-41cd-0626d29a2548">
+      <Execution id="dc972467-e832-47a2-9dc2-18c30e016d2d" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetFragmentatWithOutMod" />
+    </UnitTest>
+    <UnitTest name="GetModificationLi" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="c15e4676-c5ee-db06-acf3-8d37258c7a4c">
+      <Execution id="bc319b53-492f-43f2-a3c6-aec9fb38506e" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetModificationLi" />
+    </UnitTest>
+    <UnitTest name="TestRegex" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="766f967e-cd62-c9c3-c250-d575d5115db6">
+      <Execution id="7f0f591c-50cf-46c9-a37d-875ed9918edb" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestRegex" />
+    </UnitTest>
+    <UnitTest name="RefractoringTextParser" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="beafb084-8735-a82d-4bd9-9d531f023de9">
+      <Execution id="6a236f72-47a7-4c92-af24-fb2b2efbed68" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RefractoringTextParser" />
+    </UnitTest>
+    <UnitTest name="TestModnWithText" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="01cb3754-85ef-de85-c558-307a6f4af7e6">
+      <Execution id="e49a06c2-3fc1-46b3-b2d8-6013df4c6aa0" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestModnWithText" />
+    </UnitTest>
+    <UnitTest name="InitiateNumMod" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="df5fa9ef-4d26-8455-d096-4e68827fecfb">
+      <Execution id="df91b7ba-d54c-47b8-94a3-1235ba9dff76" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InitiateNumMod" />
+    </UnitTest>
+    <UnitTest name="GetModification" storage="c:\users\magicleap\desktop\pepfragmentiongenerator 2017-12-04\pepfragmentiongenerator\testproject1\bin\debug\testproject1.dll" id="1fc7d2db-230e-a205-77c4-36df52d26c74">
+      <Execution id="5c3eafa1-5719-4dee-835f-728ba93039bb" />
+      <TestMethod codeBase="C:/Users/magicleap/Desktop/PepFragmentIonGenerator 2017-12-04/PepFragmentIonGenerator/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetModification" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="01cb3754-85ef-de85-c558-307a6f4af7e6" executionId="e49a06c2-3fc1-46b3-b2d8-6013df4c6aa0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1fc7d2db-230e-a205-77c4-36df52d26c74" executionId="5c3eafa1-5719-4dee-835f-728ba93039bb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="71ca4d67-51d6-196d-41cd-0626d29a2548" executionId="dc972467-e832-47a2-9dc2-18c30e016d2d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="766f967e-cd62-c9c3-c250-d575d5115db6" executionId="7f0f591c-50cf-46c9-a37d-875ed9918edb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="beafb084-8735-a82d-4bd9-9d531f023de9" executionId="6a236f72-47a7-4c92-af24-fb2b2efbed68" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c15e4676-c5ee-db06-acf3-8d37258c7a4c" executionId="bc319b53-492f-43f2-a3c6-aec9fb38506e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="df5fa9ef-4d26-8455-d096-4e68827fecfb" executionId="df91b7ba-d54c-47b8-94a3-1235ba9dff76" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f9a0c639-a890-d9ce-99dc-166ae0a28892" executionId="7943a8e7-9725-47d6-a2e7-b69dba98a57f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e49a06c2-3fc1-46b3-b2d8-6013df4c6aa0" testId="01cb3754-85ef-de85-c558-307a6f4af7e6" testName="TestModnWithText" computerName="IASL-MAGICLEAP" duration="00:00:00.0222491" startTime="2017-12-14T14:49:32.5879787+08:00" endTime="2017-12-14T14:49:32.7300815+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e49a06c2-3fc1-46b3-b2d8-6013df4c6aa0">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.UnitTest1.TestModnWithText threw exception: 
+System.IO.FileNotFoundException: 找不到檔案 'C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\bin\Debug\PeptideAnnotation.xml'。</Message>
+          <StackTrace>    於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   於 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   於 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   於 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   於 System.Threading.CompressedStack.runTryCode(Object userData)
+   於 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   於 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   於 System.Xml.XmlTextReaderImpl.OpenUrl()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   於 System.Xml.XmlDocument.Load(XmlReader reader)
+   於 System.Xml.XmlDocument.Load(String filename)
+   於 PepFragmentIonGenerator.GetFragments.modGenerator(String xmlAnnotation) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 291
+   於 PepFragmentIonGenerator.GetFragments.GetFragments_AAStr_Mod(String pepSeq, Boolean b_CreatNeutralLossPeak, String PeptideAnnotationFile) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 38
+   於 TestProject1.UnitTest1.TestModnWithText() 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\UnitTest1.cs: 行 55
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5c3eafa1-5719-4dee-835f-728ba93039bb" testId="1fc7d2db-230e-a205-77c4-36df52d26c74" testName="GetModification" computerName="IASL-MAGICLEAP" duration="00:00:00.0015258" startTime="2017-12-14T14:49:32.7310828+08:00" endTime="2017-12-14T14:49:32.7350854+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5c3eafa1-5719-4dee-835f-728ba93039bb">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.UnitTest1.GetModification threw exception: 
+System.IO.FileNotFoundException: 找不到檔案 'C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\bin\Debug\PeptideAnnotation.xml'。</Message>
+          <StackTrace>    於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   於 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   於 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   於 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   於 System.Threading.CompressedStack.runTryCode(Object userData)
+   於 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   於 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   於 System.Xml.XmlTextReaderImpl.OpenUrl()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   於 System.Xml.XmlDocument.Load(XmlReader reader)
+   於 System.Xml.XmlDocument.Load(String filename)
+   於 PepFragmentIonGenerator.GetFragments.modGenerator(String xmlAnnotation) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 291
+   於 PepFragmentIonGenerator.GetFragments.GetFragments_AAStr_Mod(String pepSeq, Boolean b_CreatNeutralLossPeak, String PeptideAnnotationFile) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 38
+   於 TestProject1.UnitTest1.GetModification() 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\UnitTest1.cs: 行 192
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="dc972467-e832-47a2-9dc2-18c30e016d2d" testId="71ca4d67-51d6-196d-41cd-0626d29a2548" testName="TestGetFragmentatWithOutMod" computerName="IASL-MAGICLEAP" duration="00:00:00.0016687" startTime="2017-12-14T14:49:32.7350854+08:00" endTime="2017-12-14T14:49:32.7400891+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dc972467-e832-47a2-9dc2-18c30e016d2d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.UnitTest1.TestGetFragmentatWithOutMod threw exception: 
+System.IO.FileNotFoundException: 找不到檔案 'C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\bin\Debug\PeptideAnnotation.xml'。</Message>
+          <StackTrace>    於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   於 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   於 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   於 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   於 System.Threading.CompressedStack.runTryCode(Object userData)
+   於 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   於 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   於 System.Xml.XmlTextReaderImpl.OpenUrl()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   於 System.Xml.XmlDocument.Load(XmlReader reader)
+   於 System.Xml.XmlDocument.Load(String filename)
+   於 PepFragmentIonGenerator.GetFragments.modGenerator(String xmlAnnotation) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 291
+   於 PepFragmentIonGenerator.GetFragments.GetFragments_AAStr_Mod(String pepSeq, Boolean b_CreatNeutralLossPeak, String PeptideAnnotationFile) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 38
+   於 TestProject1.UnitTest1.TestGetFragmentatWithOutMod() 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\UnitTest1.cs: 行 34
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7f0f591c-50cf-46c9-a37d-875ed9918edb" testId="766f967e-cd62-c9c3-c250-d575d5115db6" testName="TestRegex" computerName="IASL-MAGICLEAP" duration="00:00:00.0002728" startTime="2017-12-14T14:49:32.7410901+08:00" endTime="2017-12-14T14:49:32.7440920+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7f0f591c-50cf-46c9-a37d-875ed9918edb">
+    </UnitTestResult>
+    <UnitTestResult executionId="6a236f72-47a7-4c92-af24-fb2b2efbed68" testId="beafb084-8735-a82d-4bd9-9d531f023de9" testName="RefractoringTextParser" computerName="IASL-MAGICLEAP" duration="00:00:00.0015247" startTime="2017-12-14T14:49:32.7440920+08:00" endTime="2017-12-14T14:49:32.7480952+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6a236f72-47a7-4c92-af24-fb2b2efbed68">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.UnitTest1.RefractoringTextParser threw exception: 
+System.IO.FileNotFoundException: 找不到檔案 'C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\bin\Debug\PeptideAnnotation.xml'。</Message>
+          <StackTrace>    於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   於 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   於 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   於 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   於 System.Threading.CompressedStack.runTryCode(Object userData)
+   於 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   於 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   於 System.Xml.XmlTextReaderImpl.OpenUrl()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   於 System.Xml.XmlDocument.Load(XmlReader reader)
+   於 System.Xml.XmlDocument.Load(String filename)
+   於 PepFragmentIonGenerator.GetFragments.modGenerator(String xmlAnnotation) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 291
+   於 PepFragmentIonGenerator.GetFragments.GetFragments_AAStr_Mod(String pepSeq, Boolean b_CreatNeutralLossPeak, String PeptideAnnotationFile) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 38
+   於 TestProject1.UnitTest1.RefractoringTextParser() 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\UnitTest1.cs: 行 77
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bc319b53-492f-43f2-a3c6-aec9fb38506e" testId="c15e4676-c5ee-db06-acf3-8d37258c7a4c" testName="GetModificationLi" computerName="IASL-MAGICLEAP" duration="00:00:00.0002129" startTime="2017-12-14T14:49:32.7490962+08:00" endTime="2017-12-14T14:49:32.7520981+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bc319b53-492f-43f2-a3c6-aec9fb38506e">
+    </UnitTestResult>
+    <UnitTestResult executionId="df91b7ba-d54c-47b8-94a3-1235ba9dff76" testId="df5fa9ef-4d26-8455-d096-4e68827fecfb" testName="InitiateNumMod" computerName="IASL-MAGICLEAP" duration="00:00:00.0019723" startTime="2017-12-14T14:49:32.7530988+08:00" endTime="2017-12-14T14:49:32.7571015+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="df91b7ba-d54c-47b8-94a3-1235ba9dff76">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.UnitTest1.InitiateNumMod threw exception: 
+System.IO.FileNotFoundException: 找不到檔案 'C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\bin\Debug\PeptideAnnotation.xml'。</Message>
+          <StackTrace>    於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   於 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   於 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   於 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   於 System.Threading.CompressedStack.runTryCode(Object userData)
+   於 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   於 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   於 System.Xml.XmlTextReaderImpl.OpenUrl()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   於 System.Xml.XmlDocument.Load(XmlReader reader)
+   於 System.Xml.XmlDocument.Load(String filename)
+   於 PepFragmentIonGenerator.GetFragments.modGenerator(String xmlAnnotation) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 291
+   於 PepFragmentIonGenerator.GetFragments.GetFragments_AAStr_Mod(String pepSeq, Boolean b_CreatNeutralLossPeak, String PeptideAnnotationFile) 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\GetFragments.cs: 行 38
+   於 TestProject1.UnitTest1.InitiateNumMod() 於 C:\Users\magicleap\Desktop\PepFragmentIonGenerator 2017-12-04\PepFragmentIonGenerator\TestProject1\UnitTest1.cs: 行 161
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7943a8e7-9725-47d6-a2e7-b69dba98a57f" testId="f9a0c639-a890-d9ce-99dc-166ae0a28892" testName="CheckModification" computerName="IASL-MAGICLEAP" duration="00:00:00.0005091" startTime="2017-12-14T14:49:32.7581025+08:00" endTime="2017-12-14T14:49:32.7601037+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7943a8e7-9725-47d6-a2e7-b69dba98a57f">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,91 @@
+<PeptideAnnotation>
+	<ModificationSetting>
+			<modification identifier="1">
+				<name>GSH</name>
+				<delta>305.068156</delta>
+				<neutral_loss identifier="0" name="-all">305.068156</neutral_loss>
+				<neutral_loss identifier="1" name="-H2">307.083806</neutral_loss>
+				<neutral_loss identifier="2" name="-S">339.055877</neutral_loss>
+				<neutral_loss identifier="3" name="+S">273.096085</neutral_loss>
+			</modification>
+			<modification identifier="2">
+				<name>Phospho (ST)</name>
+				<delta>80</delta>
+				<neutral_loss identifier="0" name="-all">98</neutral_loss>
+			</modification>
+			<modification identifier="3">
+				<name>Biotin</name>
+				<delta>414.2</delta>
+				<neutral_loss identifier="0" name="-449.2">449.2</neutral_loss>
+				<neutral_loss identifier="1" name="-375.2">375.2</neutral_loss>
+				<neutral_loss identifier="2" name="-332.2">332.2</neutral_loss>
+				<neutral_loss identifier="3" name="-270.1">270.1</neutral_loss>
+			</modification>
+			<modification identifier="4">
+				<name>Deamidated</name>
+				<delta>0.984016</delta>
+			</modification>
+			<modification identifier="5">
+				<name>Carba</name>
+				<delta>57.0214</delta>
+			</modification>
+			<modification identifier="6">
+				<name>Carbamidometyl(C)</name>
+				<delta>57.0214</delta>
+			</modification>
+			<modification identifier="7">
+				<name>deamidation(N)</name>
+				<delta>0.984016</delta>
+			</modification>
+			<modification identifier="8">
+				<name>Oxidation(M)</name>
+				<delta>15.9949</delta>
+			</modification>
+			<modification identifier="9">
+				<name>car</name>
+				<delta>57.0214</delta>
+			</modification>
+			<modification identifier="10">
+				<name>oxid</name>
+				<delta>15.9949</delta>
+			</modification>
+			<modification identifier="11">
+				<name>deam</name>
+				<delta>0.984016</delta>
+			</modification>
+			<modification identifier="12">
+				<name>carb</name>
+				<delta>57.0214</delta>
+			</modification>
+			<modification identifier="13">
+				<name>Carbamidomethyl (C)</name>
+				<delta>57.021464</delta>
+			</modification>
+			<modification identifier="14">
+				<name>Deamidated (NQ)</name>
+				<delta>0.984016</delta>
+			</modification>
+			<modification identifier="15">
+				<name>Oxidation (M)</name>
+				<delta>15.994915</delta>
+			</modification>
+			<modification identifier="16">
+				<name>Carboxymethyl (C)</name>
+				<delta>58.005479</delta>
+			</modification>
+			<modification identifier="17">
+				<name>Acetyl (Protein N-term)</name>
+				<delta>42.01</delta>
+			</modification>
+			<modification identifier="18">
+				<name>Phospho (Y)</name>
+				<delta>80</delta>
+				<neutral_loss identifier="0" name="-all">98</neutral_loss>
+			</modification>
+    <modification identifier="19">
+      <name>Methylthio (C)</name>
+      <AA identifier="0">C</AA>
+      <delta>45.987721</delta>
+    </modification>
+	</ModificationSetting>
+</PeptideAnnotation>
